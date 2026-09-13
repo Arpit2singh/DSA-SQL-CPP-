@@ -1,0 +1,1 @@
+select u.product_name , s.year , s.price from Sales as s inner join Product as u on s.product_id = u.product_id  ;  
