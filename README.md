@@ -52,6 +52,7 @@ DSA-SQL-CPP-/
 | ------- |
 | [0031-next-permutation](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0118-pascals-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,6 +61,7 @@ DSA-SQL-CPP-/
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
