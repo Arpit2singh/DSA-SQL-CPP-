@@ -61,6 +61,7 @@ DSA-SQL-CPP-/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +86,7 @@ DSA-SQL-CPP-/
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -121,4 +123,8 @@ DSA-SQL-CPP-/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
