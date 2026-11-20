@@ -133,4 +133,12 @@ DSA-SQL-CPP-/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
