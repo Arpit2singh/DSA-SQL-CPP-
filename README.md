@@ -107,6 +107,7 @@ DSA-SQL-CPP-/
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0062-unique-paths) |
 ## Sorting
 |  |
@@ -156,6 +157,7 @@ DSA-SQL-CPP-/
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
