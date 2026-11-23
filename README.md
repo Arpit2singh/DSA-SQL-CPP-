@@ -91,6 +91,7 @@ DSA-SQL-CPP-/
 | [0088-merge-sorted-array](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0295-find-median-from-data-stream) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ DSA-SQL-CPP-/
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0295-find-median-from-data-stream) |
 ## Quicksort
 |  |
 | ------- |
@@ -180,8 +182,17 @@ DSA-SQL-CPP-/
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
