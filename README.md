@@ -76,6 +76,7 @@ DSA-SQL-CPP-/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0062-unique-paths) |
@@ -84,6 +85,7 @@ DSA-SQL-CPP-/
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0031-next-permutation) |
@@ -202,5 +204,10 @@ DSA-SQL-CPP-/
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0151-reverse-words-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
