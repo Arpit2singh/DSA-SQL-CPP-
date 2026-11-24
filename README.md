@@ -66,6 +66,7 @@ DSA-SQL-CPP-/
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -174,10 +175,12 @@ DSA-SQL-CPP-/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
