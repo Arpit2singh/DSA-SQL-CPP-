@@ -99,6 +99,7 @@ DSA-SQL-CPP-/
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0141-linked-list-cycle) |
@@ -113,6 +114,7 @@ DSA-SQL-CPP-/
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0062-unique-paths) |
@@ -205,6 +207,7 @@ DSA-SQL-CPP-/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/Arpit2singh/DSA-SQL-CPP-/tree/master/0151-reverse-words-in-a-string) |
 ## Manacher
 |  |
